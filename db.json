@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Didier",
+      "age": "35",
+      "companyId": "1"
+    },
+    {
+      "firstName": "Kristof",
+      "age": 36,
+      "id": "hr7HOF_"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "2",
+      "name": "Facebook",
+      "description": "social"
+    }
+  ]
+}
